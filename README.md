@@ -7,6 +7,8 @@
  * Application code is written in NineNewsPoint.
  
  * Created the seprate library for NineNewsPointServices. which contain all functionality that could be reused by 3rd party developers in any application that requires news list data.
+ 
+ * Used XCode 12.4 with Swift 5. 
 
 ## Application Run & Compile steps
 * Clone source code.
