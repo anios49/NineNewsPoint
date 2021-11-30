@@ -1,5 +1,17 @@
 # NineNewsPoint
-![Light](https://user-images.githubusercontent.com/43500940/143993953-764ce8ec-be8d-4b58-86a0-238caa8779b2.PNG)_______________________________________                                     ![Dark](https://user-images.githubusercontent.com/43500940/143993988-79cdf79a-2f82-426a-b401-8e1e9197b152.PNG)
+
+## Application Run & Compile steps.
+* Clone source code.
+
+* Open NineNewsPoint.xcodepoj.
+
+* Build the NineNewsPointService framework.
+
+* Change target to NineNewsPoint and run the application
+
+
+![1](https://user-images.githubusercontent.com/43500940/143995180-97c4e193-9fcd-4579-b12b-c82137904019.PNG).    ![1](https://user-images.githubusercontent.com/43500940/143995287-f24974b3-f9e9-44b0-bb4c-3dc6c5d611b9.PNG)
+
 
 ## Task
 
