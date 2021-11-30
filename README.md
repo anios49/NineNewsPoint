@@ -1,6 +1,5 @@
 # NineNewsPoint
-
-
+![Light](https://user-images.githubusercontent.com/43500940/143993953-764ce8ec-be8d-4b58-86a0-238caa8779b2.PNG)_______________________________________                                     ![Dark](https://user-images.githubusercontent.com/43500940/143993988-79cdf79a-2f82-426a-b401-8e1e9197b152.PNG)
 
 ## Task
 
@@ -58,6 +57,10 @@ You are tasked with creating an iPhone app that consumes the provided API and di
 * Make sure to include Unit tests as part of the solution - we thoroughly review unit tests and coverage!
 
 ✅ @Animesh - Done, for NineNewsPointService coverage is 94.4% & for NineNewPoint app coverage is 86.4%.
+
+![CodeCoverage](https://user-images.githubusercontent.com/43500940/143993267-4d455203-688c-4ec4-8391-2716c1124453.png)
+
+![UnitTestCases](https://user-images.githubusercontent.com/43500940/143993419-5a7008ae-b734-470a-a139-f55ac3a2a792.png)
 
 * Add at least two UI tests to verify UI is functional and/or cover some important user flow
 
