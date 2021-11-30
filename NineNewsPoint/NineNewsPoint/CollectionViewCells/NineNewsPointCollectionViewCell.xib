@@ -23,7 +23,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="350" height="345"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Heading" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FlO-cS-Q7W">
-                                <rect key="frame" x="8" y="4" width="342" height="21.5"/>
+                                <rect key="frame" x="8" y="4" width="338" height="21.5"/>
                                 <fontDescription key="fontDescription" type="system" weight="medium" pointSize="18"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -101,7 +101,7 @@
                             <constraint firstItem="FlO-cS-Q7W" firstAttribute="leading" secondItem="vub-6b-OGy" secondAttribute="leading" constant="8" id="dTY-7J-q8W"/>
                             <constraint firstItem="UNy-IR-x62" firstAttribute="top" secondItem="eHK-Hr-Db1" secondAttribute="bottom" constant="6" id="dlT-7r-Uk5"/>
                             <constraint firstAttribute="trailing" secondItem="eHK-Hr-Db1" secondAttribute="trailing" id="lsv-Ar-SSX"/>
-                            <constraint firstAttribute="trailing" secondItem="FlO-cS-Q7W" secondAttribute="trailing" id="uYq-Wh-Jcn"/>
+                            <constraint firstAttribute="trailing" secondItem="FlO-cS-Q7W" secondAttribute="trailing" constant="4" id="uYq-Wh-Jcn"/>
                             <constraint firstItem="FlO-cS-Q7W" firstAttribute="top" secondItem="vub-6b-OGy" secondAttribute="top" constant="4" id="vmU-F4-I5b"/>
                         </constraints>
                     </view>
